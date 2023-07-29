@@ -1,0 +1,5 @@
+/* File: MovieList.css */
+.movie-list-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
